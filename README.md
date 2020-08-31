@@ -1,2 +1,2 @@
-## Petya <petya@localhost>
-## f878bf
+## Oleg <oleg@localhost>
+## b557916
